@@ -2,3 +2,7 @@
 	path = containers
 	url = https://github.com/ReproNim/containers.git
 	datalad-id = b02e63c2-62c1-11e9-82b0-52540040489c
+[submodule "sourcedata/hcptrt"]
+	path = sourcedata/hcptrt
+	url = git@github.com:courtois-neuromod/hcptrt.git
+	datalad-id = 75ea31e2-f730-11e9-aec7-3ea8d101da1a
