@@ -1,0 +1,1 @@
+b01d85f7-ed63-4e92-83eb-87dbe9ba9e3a autoenable=true bucket=cneuromod.hcptrt.mriqc chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.hcptrt.mriqc port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1781036418s
